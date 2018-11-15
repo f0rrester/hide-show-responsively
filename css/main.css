@@ -24,7 +24,8 @@ body {
 }
 
 img {
-  width: auto;
+  display: inline-block;
+  width: 100%;
   max-width: 25em;
 }
 
